@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Username Enumeration
 
-  * ![Username Enumeration](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/User_Enumeration.gif)
+   ![Username Enumeration](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/User_Enumeration.gif)
 
 Vulnerability #2: __________________
 
