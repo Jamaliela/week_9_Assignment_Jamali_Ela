@@ -32,7 +32,9 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
+
+   ![Insecure Direct Object Reference (IDOR)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/IDOR.gif)
 
 Vulnerability #2: __________________
 
