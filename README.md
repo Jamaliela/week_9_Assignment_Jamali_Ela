@@ -23,7 +23,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
 Vulnerability #2: __________________
 
