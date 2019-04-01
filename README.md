@@ -20,6 +20,12 @@ Vulnerability #1: SQL Injection (SQLi)
 
   ![SQL Injection (SQLi)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/SQLi.gif)
 
+  > Notes: First we need to identify if the website that has SQLi vulnerability which means the input is not
+    being sanitized before being used in an SQL query. Going to the list of Salesperson, we see that by changing 
+    the id to ' we get Database query failed. so now we know that it is vulnerable. now we want to change 
+    the session id and go from one user to another one. we use or ' or id=(number of the id we are changing to) --' 
+    and we encode it to URL and paste it to our URL. 
+
 Vulnerability #2: Session Hijacking/Fixation
 
   ![Session Hijacking/Fixation](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/Session_Hijacking.gif)
