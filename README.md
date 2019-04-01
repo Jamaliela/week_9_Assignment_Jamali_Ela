@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -20,7 +20,9 @@ Vulnerability #1: SQL Injection (SQLi)
 
   ![SQL Injection (SQLi)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/SQL.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
+
+  ![Session Hijacking/Fixation](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/Session_Hijacking.gif)
 
 
 ## Green
@@ -47,6 +49,5 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 ## Notes
 
 Describe any challenges encountered while doing the work
-index.php session id cookiephpsession id
-other browser
+
 
