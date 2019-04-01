@@ -39,7 +39,9 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
    ![Insecure Direct Object Reference (IDOR)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/IDOR.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+
+   ![Cross-Site Request Forgery (CSRF)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/CSRF.gif)
 
 
 ## Notes
