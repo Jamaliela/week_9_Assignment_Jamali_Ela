@@ -29,7 +29,11 @@ Vulnerability #1: SQL Injection (SQLi)
 Vulnerability #2: Session Hijacking/Fixation
 
   ![Session Hijacking/Fixation](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/Session_Hijacking.gif)
-
+  
+  > Notes: Here I have tried session hijacking. First, I logged the target in Chrome and inspected the page to find the session ID,
+    then I copied the index.php URL to another browser like Firefox here and it gave me the log in page. I used burp to see the 
+    session ID and they are different so I gave the logged-in session ID to the attacker in Firefox and submit it. We can see 
+    the page that it is logged in so it is vulnerable.
 
 ## Green
 
