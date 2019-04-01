@@ -82,4 +82,8 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
 Describe any challenges encountered while doing the work
 
+> One of the big challenges for me was reminding myself about each vulnerabilities and how to approach them. 
+It was very fun and exciting to work with several vulnerabilities at the same time. I struggles a bit with CSRF as I was not sure
+what to use as my source until I learned about github pages. Other than that I think it was a challenging but rewarding assignment. 
+
 
