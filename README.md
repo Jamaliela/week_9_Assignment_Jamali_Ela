@@ -71,7 +71,12 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
    ![Cross-Site Request Forgery (CSRF)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/CSRF.gif)
-
+   
+   >Notes: As the attacker in website red I designed a form that made a change to the spelling of the database content.
+   I used GitHub.io to create my Github page and use it as my source. I took the form for updating the spelling of one 
+   of the countries in the form and changed it from Canadaaaa to ElahehCanada and used the link to the github page 
+   in the feedback section. The target would open the URL suggested in the feedback and without seeing the form 
+   the database content gets updated.
 
 ## Notes
 
