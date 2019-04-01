@@ -61,6 +61,12 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
    ![Insecure Direct Object Reference (IDOR)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/IDOR.gif)
+ 
+   >Notes: Red Website is missing code which prevents some sensitive information from being made public. How do we know that? 
+   There are some users like user with id=11 and id=10 that are not in the salesperson lists because they are fired or 
+   they are a private user for now but with changing the URL to their id we can see their information. 
+   The other websites redirect you to the salesperson list when you change the id to either 10 or 11. 
+   so they are not vulnerable like red.
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
