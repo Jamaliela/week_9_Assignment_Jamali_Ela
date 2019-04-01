@@ -48,6 +48,13 @@ Vulnerability #1: Username Enumeration
 Vulnerability #2: Cross-Site Scripting (XSS)
 
    ![Cross-Site Scripting (XSS)](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/XSS.gif)
+ 
+   >Notes: Green Website is  vulnerable to XSS attack. To see this we can use a stored XSS. In feedback section 
+   we put the Javascript <script>alert('Ela found the XSS!');</script> then we submit the feedback. We log in as
+   an admin and when we want to open the feedback page we can see that we get an alert box and if we press ok we 
+   see different names and finally we are redirected to a website. I have blocked the JavaScript in the browser 
+   so we can see the first person that has stored the XSS and therefore their alert box and website apears when 
+   we click on the feedback section.
 
 ## Red
 
