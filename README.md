@@ -40,6 +40,10 @@ Vulnerability #2: Session Hijacking/Fixation
 Vulnerability #1: Username Enumeration
 
    ![Username Enumeration](https://github.com/Jamaliela/week_9_Assignment_Jamali_Ela/blob/master/User_Enumeration.gif)
+  
+   > Notes: First I used the existing username "jmonroe99" as a test and a random password. We can see the error message
+    is bold. Then I tried a random username and a password that does not exist and the error is not bold for that. We can see
+    the developer has created a username enumeration vulnerability.
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 
